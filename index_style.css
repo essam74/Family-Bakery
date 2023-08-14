@@ -1,0 +1,263 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.home {
+  height: 120vh;
+  background-image: url(images/drew-coffman-1872.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  overflow: hidden;
+  background-position: center;
+}
+
+.home .hcontent {
+  color: aliceblue;
+  margin-top: 220px;
+}
+
+.home .hcontent h1 {
+  margin: 20px 0px;
+  font-size: 2cm;
+font-family: 'Open Sans', sans-serif;}
+
+.home .hcontent button {
+  margin: 30px 0px;
+  padding: 20px 30px;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  background-color: rgb(142, 119, 84);
+  border: 2px solid rgb(142, 119, 84);
+}
+
+.home .hcontent p {
+  font-size: 150%;
+  font-family: "Alegreya Sans", sans-serif;
+}
+
+.home .hcontent .btn2 {
+  background-color: transparent;
+  border: 2px solid #fff;
+  margin-left: 10px;
+}
+
+.home .hcontent .scroll {
+  width: 40px;
+  height: 70px;
+  border: 2px solid #fff;
+  border-radius: 50px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.stwo {
+  height: 100vh;
+  margin: 10px 40px;
+}
+
+.table1 {
+  margin: 150px 0px;
+}
+
+.stwo .whopic {
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}
+
+.stwo .whopic img {
+  width: 100%;
+  height: 100%;
+}
+
+.stwo .whop {
+  display: inline-block;
+  width: 100%;
+  padding-left: 40px;
+}
+
+.stwo .table1 .whop .hpar {
+  padding-bottom: 20px;
+  font-size: 40px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.stwo .whop p {
+  margin: 20px 0px;
+  color: #686868;
+  font-size: large;
+  font-size: 17px;
+  font-family: "Alegreya Sans", sans-serif;
+}
+
+.icon .icon2 {
+  display: inline-block;
+}
+
+.td1 {
+  width: 45%;
+}
+
+.sthree {
+  height: 100vh;
+  width: 100%;
+  background-color: rgb(248, 245, 245);
+}
+
+.table2 {
+  margin: 30px 20px;
+  padding: 60px 0px;
+}
+
+.table2 .location {
+  width: 50%;
+}
+
+.sthree .table2 .hpar {
+  padding-bottom: 20px;
+  font-size: 40px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+
+}
+
+.sthree p {
+  margin: 20px 60px;
+  color: #686868;
+  font-size: large;
+  font-size: 17px;
+  line-height: 1.5em;
+  font-family: 'Alegreya Sans', sans-serif;
+
+}
+
+.sthree .locationimg {
+  display: inline-block;
+  width: 90%;
+}
+.sthree .locationimg img {
+    width: 100%;
+  }
+
+.sfour {
+  width: 100%;
+  height: 100vh;
+  margin-top: 60px;
+  font-family: 'Alegreya Sans', sans-serif;
+
+}
+.sfour .sfourtitle {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.sfour p {
+  color: #686868;
+
+}
+.sfour .sfourtitle .hpar{
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    font-family: "Times New Roman", Times, serif;
+}
+
+.sfour .cards .card1 p{
+    line-height: 2em;
+}
+
+.card1 {
+  width: 30%;
+  float: left;
+  text-align: center;
+  margin-left: 30px;
+
+}
+.cards h3 {
+  margin: 30px 0px;
+  font-family: "Times New Roman", Times, serif;
+
+}
+.card1 img {
+  width: 90%;
+}
+
+.sfive {
+  width: 100%;
+  height: 110vh;
+  background-color: #ece5e5;
+  font-family: 'Alegreya Sans', sans-serif;
+
+}
+.table5 {
+  margin: 50px;
+  padding: 100px 30px;
+}
+.contact {
+  width: 100%;
+}
+.sfive .hpar {
+  padding-bottom: 20px;
+  font-size: 40px;
+  color: black; 
+}
+
+.map {
+  width: 100%;
+}
+
+.ssix {
+  width: 100%;
+  height: 70vh;
+  background-image: url(images/contact-details-map.png);
+  background-repeat: no-repeat;
+  background-color: #242323;
+}
+
+.ssix .about {
+  width: 20%;
+  float: left;
+  margin-left: 70px;
+  margin-top: 70px;
+  margin-right: 50px;
+}
+.ssix .about2,
+.about3,
+.about4 {
+  width: 20%;
+  float: left;
+  margin-left: 20px;
+  margin-top: 70px;
+}
+.ssix h3 {
+  color: #fff;
+  padding-bottom: 20px;
+}
+.ssix p {
+  color: #acabab;
+  line-height: 1.5;
+  font-family: 'Alegreya Sans', sans-serif;
+
+}
+.ssix .line {
+  height: 1px;
+  width: 250px;
+  background-color: #acabab;
+  margin: 10px 0px;
+}
+
+.lastsec {
+  width: 100%;
+  height: 50vh;
+  background-color: #111111;
+  text-align: center;
+  color: #5c5b5b;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+.lastsec img {
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
